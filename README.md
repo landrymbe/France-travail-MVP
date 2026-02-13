@@ -4,7 +4,7 @@ Prototype d'application web pour la recherche d'emploi inspiré de France Travai
 
 ## 📝 Description du projet
 
-Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'analyse UX :
+Ce prototype complet couvre **les 2 parcours utilisateurs** identifiés dans l'analyse UX :
 - ✅ **YOHANN** (jeune diplômé) - Recherche d'emploi et candidature
 - ✅ **STEPHANIE** (reconversion) - Recherche de formations
 
@@ -96,43 +96,6 @@ src/
 └── index.css                   # Styles Tailwind
 ```
 
-## 🎓 Lien avec le travail UX
-
-### Atelier 2 - Cartes d'empathie
-✅ 3 profils implémentés avec leurs besoins spécifiques
-
-### Atelier 3 - User Flows
-✅ Tous les parcours principaux sont développés :
-- yohann: Accueil → Recherche → Offre → Candidature
-- Stephanie: Accueil → Formations → Comparaison → Inscription
-- Mohamed: Accueil → Actualisation → Validation → Confirmation
-
-✅ Scénarios d'erreur gérés :
-- Champs obligatoires manquants
-- Actualisation hors délai
-- Limite de comparaison (3 formations max)
-
-### Atelier 3 - Wireframes
-✅ 9 écrans développés (7 wireframes + 2 bonus)
-
-## 🚀 Fonctionnalités bonus
-
-Au-delà du MVP minimal :
-- Comparaison de formations
-- Calcul automatique CPF
-- Indicateurs de compatibilité profil
-- Progression visuelle dans les formulaires
-- Système de notifications
-- Footer complet
-- Page 404 personnalisée
-
-## 👥 Équipe
-
-**Équipe de développement - Atelier 4**
-- [Votre Nom 1]
-- [Votre Nom 2]
-- [Votre Nom 3]
-- [Votre Nom 4]
 
 ## 📄 Licence
 
@@ -141,5 +104,3 @@ Projet pédagogique - Utilisation libre
 ---
 
 **Développé avec ❤️ dans le cadre du cours UX Design**
-
-*Dernière mise à jour: Février 2026 - Version 2.0 Complète*
