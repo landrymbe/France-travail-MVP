@@ -1,23 +1,23 @@
-# France Travail - MVP Prototype (Version Complète)
+# France Travail - MVP Prototype 
 
 Prototype d'application web pour la recherche d'emploi inspiré de France Travail. Développé dans le cadre de l'Atelier 4 - Prototypage MVP du projet UX Design.
 
 ## 📝 Description du projet
 
 Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'analyse UX :
-- ✅ **Lucas** (jeune diplômé) - Recherche d'emploi et candidature
-- ✅ **Sophie** (reconversion) - Recherche de formations
-- ✅ **Mohamed** (chômage longue durée) - Actualisation mensuelle
+- ✅ **YOHANN** (jeune diplômé) - Recherche d'emploi et candidature
+- ✅ **STEPHANIE** (reconversion) - Recherche de formations
+
 
 ## 🎯 Fonctionnalités implémentées
 
-### ✅ PARCOURS LUCAS (Jeune diplômé)
+### ✅ PARCOURS YOHANN (Jeune diplômé)
 1. **Page d'accueil (Dashboard)** - Vue personnalisée avec alertes et accès rapide
 2. **Recherche d'emploi** - Filtres avancés, 234 offres, pagination
 3. **Détail de l'offre** - Onglets, compatibilité profil 80%, offres similaires
 4. **Formulaire de candidature** - 3 étapes (infos, documents, confirmation)
 
-### ✅ PARCOURS SOPHIE (Reconversion)
+### ✅ PARCOURS Stephanie (Reconversion)
 5. **Page Formations** 
    - Recherche avec filtres (type, domaine, durée, modalité)
    - Affichage du solde CPF (2 450€)
@@ -25,24 +25,7 @@ Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'a
    - 156 formations disponibles
    - Indicateurs d'éligibilité CPF
 
-### ✅ PARCOURS MOHAMED (Actualisation)
-6. **Page Actualisation mensuelle**
-   - Formulaire en 4 étapes
-   - Déclaration d'activité (heures, employeur, montant)
-   - Déclaration de formation
-   - Déclaration d'absence/indisponibilité
-   - Calcul automatique impact sur indemnités
-   - Page de confirmation avec date de paiement
 
-### 🎨 AMÉLIORATIONS UX
-- ✨ Messages d'erreur clairs et contextuels
-- 🔄 États de chargement et feedback visuel
-- 📱 Design responsive (mobile + desktop)
-- ♿ Navigation accessible au clavier
-- 🎭 Animations douces et micro-interactions
-- 🚨 Alertes importantes (actualisation, bannières)
-- 📄 Page 404 personnalisée
-- 🦶 Footer complet avec liens utiles
 
 ## 🛠️ Stack technique
 
@@ -120,8 +103,8 @@ src/
 
 ### Atelier 3 - User Flows
 ✅ Tous les parcours principaux sont développés :
-- Lucas: Accueil → Recherche → Offre → Candidature
-- Sophie: Accueil → Formations → Comparaison → Inscription
+- yohann: Accueil → Recherche → Offre → Candidature
+- Stephanie: Accueil → Formations → Comparaison → Inscription
 - Mohamed: Accueil → Actualisation → Validation → Confirmation
 
 ✅ Scénarios d'erreur gérés :
