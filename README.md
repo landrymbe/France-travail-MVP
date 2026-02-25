@@ -4,20 +4,34 @@ Prototype d'application web pour la recherche d'emploi inspiré de France Travai
 
 ## 📝 Description du projet
 
+<<<<<<< HEAD
 Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'analyse UX :
 - ✅ **YOHANN** (jeune diplômé) - Recherche d'emploi et candidature
 - ✅ **STEPHANIE** (reconversion) - Recherche de formations
+=======
+Ce prototype complet couvre **les 2 parcours utilisateurs** identifiés dans l'analyse UX :
+- ✅ **Yohann** (jeune diplômé) - Recherche d'emploi et candidature
+- ✅ **Stéphanie** (reconversion) - Recherche de formations
+>>>>>>> ee592c8255db0913fc34b4185e885d6f6d2a9be6
 
 
 ## 🎯 Fonctionnalités implémentées
 
+<<<<<<< HEAD
 ### ✅ PARCOURS YOHANN (Jeune diplômé)
+=======
+### ✅ PARCOURS Yohann (Jeune diplômé)
+>>>>>>> ee592c8255db0913fc34b4185e885d6f6d2a9be6
 1. **Page d'accueil (Dashboard)** - Vue personnalisée avec alertes et accès rapide
 2. **Recherche d'emploi** - Filtres avancés, 234 offres, pagination
 3. **Détail de l'offre** - Onglets, compatibilité profil 80%, offres similaires
 4. **Formulaire de candidature** - 3 étapes (infos, documents, confirmation)
 
+<<<<<<< HEAD
 ### ✅ PARCOURS Stephanie (Reconversion)
+=======
+### ✅ PARCOURS STÉPHANIE (Reconversion)
+>>>>>>> ee592c8255db0913fc34b4185e885d6f6d2a9be6
 5. **Page Formations** 
    - Recherche avec filtres (type, domaine, durée, modalité)
    - Affichage du solde CPF (2 450€)
@@ -25,7 +39,10 @@ Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'a
    - 156 formations disponibles
    - Indicateurs d'éligibilité CPF
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ee592c8255db0913fc34b4185e885d6f6d2a9be6
 
 ## 🛠️ Stack technique
 
@@ -43,14 +60,10 @@ Ce prototype complet couvre **les 3 parcours utilisateurs** identifiés dans l'a
 ### Étapes
 
 ```bash
-# 1. Cloner le dépôt
-git clone https://github.com/Romix299/France-travail-MVP.git
-cd France-travail-MVP
-
-# 2. Installer les dépendances
+# 1. Installer les dépendances
 npm install
 
-# 3. Lancer le serveur de développement
+# 2. Lancer le serveur de développement
 npm run dev
 ```
 
@@ -88,14 +101,15 @@ src/
 │   ├── JobSearch.jsx           # Recherche emploi
 │   ├── JobDetail.jsx           # Détail offre
 │   ├── ApplicationForm.jsx     # Candidature
-│   ├── FormationsPage.jsx      # Formations (Sophie)
-│   ├── ActualisationPage.jsx   # Actualisation (Mohamed)
+│   ├── FormationsPage.jsx      # Formations (STÉPHANIESTÉPHANIE)
+│   ├── ActualisationPage.jsx   # Actualisation 
 │   ├── ActualisationConfirmation.jsx
 │   └── NotFound.jsx            # Page 404
 ├── App.jsx                     # Router principal
 └── index.css                   # Styles Tailwind
 ```
 
+<<<<<<< HEAD
 ## 🎓 Lien avec le travail UX
 
 ### Atelier 2 - Cartes d'empathie
@@ -141,5 +155,7 @@ Projet pédagogique - Utilisation libre
 ---
 
 **Développé avec ❤️ dans le cadre du cours UX Design**
+=======
+>>>>>>> ee592c8255db0913fc34b4185e885d6f6d2a9be6
 
 *Dernière mise à jour: Février 2026 - Version 2.0 Complète*

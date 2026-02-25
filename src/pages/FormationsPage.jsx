@@ -79,7 +79,7 @@ export default function FormationsPage() {
               className="flex-1 px-4 py-3 text-gray-800 focus:outline-none"
             />
             <button className="bg-france-blue text-white px-8 py-3 rounded-md hover:bg-blue-700 transition font-semibold">
-              Rechercher
+              Recherch
             </button>
           </div>
         </div>

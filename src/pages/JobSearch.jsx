@@ -56,7 +56,7 @@ export default function JobSearch() {
               className="w-64 px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-france-blue"
             />
             <button className="bg-france-blue text-white px-8 py-3 rounded-md hover:bg-blue-700 transition font-semibold">
-              Rechercher
+              Recherche
             </button>
           </div>
         </div>
